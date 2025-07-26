@@ -1,0 +1,8 @@
+name: moreitems
+main: com.j3ly.moreitems.moreitemsPlugin
+version: 1.0
+
+commands:
+  zomb:
+    description: zomb
+    usage: /zomb

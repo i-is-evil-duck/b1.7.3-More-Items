@@ -1,6 +1,6 @@
 name: moreitems
-main: com.j3ly.moreitems.moreitemsPlugin
-version: 1.0
+main: com.j3ly.moreitems.RottenFleshPlugin
+version: 2.0
 
 commands:
   zomb:

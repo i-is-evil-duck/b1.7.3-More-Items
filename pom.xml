@@ -6,7 +6,7 @@
 
   <groupId>com.j3ly</groupId>
   <artifactId>MoreItems</artifactId>
-  <version>2</version>
+  <version>3</version>
   <packaging>jar</packaging>
 
   <name>MoreItemsPlugin</name>

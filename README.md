@@ -5,7 +5,7 @@
 
 Adds newer items and mechanics to beta 1.7.3:
 
-- **Zombie tokens** — Zombies drop ink sacs (351:2, 75%) or feathers (25%). Right-click a token to heal 3 hearts.
+- **Rotten Flesh** — Zombies drop rotten flesh (351:2, 75%) or feathers (25%). Right-click rotten flesh to heal 3 hearts.
 - **Apple drops** — Breaking leaves has a 20% chance to drop an apple.
 - **Cocoa beans** — Breaking logs has a 10% chance to drop cocoa beans (351:3).
 - **Spawn command** — `/zomb` spawns a zombie at your location.
